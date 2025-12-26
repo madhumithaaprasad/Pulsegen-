@@ -86,7 +86,7 @@ This ensures the final output is **actionable** and easy to interpret by stakeho
 ## Output Description
 
 The final deliverable is a CSV report:
-<img width="1131" height="591" alt="image" src="https://github.com/user-attachments/assets/9253a1b2-59d6-4d8b-a21e-0139d4ad09da" />
+
 <img width="1297" height="705" alt="image" src="https://github.com/user-attachments/assets/e40b5276-74fd-46ce-9d03-7d4701250e1a" />
 <img width="1150" height="160" alt="image" src="https://github.com/user-attachments/assets/bb643c42-5001-4e26-8837-2db47b905cfc" />
 ![output](image.png)
@@ -160,4 +160,5 @@ This project demonstrates how Agentic AI systems can be used to convert unstruct
 python main.py
 
 ```
+
 
