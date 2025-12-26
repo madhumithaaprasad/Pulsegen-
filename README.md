@@ -86,6 +86,7 @@ This ensures the final output is **actionable** and easy to interpret by stakeho
 ## Output Description
 
 The final deliverable is a CSV report:
+<img width="1131" height="591" alt="image" src="https://github.com/user-attachments/assets/9253a1b2-59d6-4d8b-a21e-0139d4ad09da" />
 ![output](image.png)
 ```
 output/trend_report.csv
@@ -155,4 +156,5 @@ This project demonstrates how Agentic AI systems can be used to convert unstruct
 3. Run:
 ```bash
 python main.py
+
 ```
